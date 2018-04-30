@@ -1,0 +1,26 @@
+https://jira.rexel.com/browse/CLOUD-22291 
+
+FR03MC45 Rexel Webshop 18 
+
+UPN: viraj.shah-ext@rexel.com
+PWD: @5Zi@e6T
+
+
+
+
+uat :-
+
+rha.approver@rexel.fr
+
+12345678 
+ rha.purchaser@rexel.fr / 12345678 
+
+
+
+
+2096221- anupama
+
+
+Jira:-
+
+https://jira.rexel.com/browse/CLOUD-22291 
